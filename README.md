@@ -84,3 +84,25 @@ To run this project locally, follow these steps:
 
 ## Project Structure
 
+## Technologies Used
+
+- **Frontend**: React, Redux, React Router, Axios
+- **Backend**: Node.js, Express, JWT, bcryptjs
+- **Database**: MongoDB, Mongoose
+- **Other**: Socket.io, Bootstrap (for styling)
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code follows the project's coding standards and includes appropriate tests.
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature-branch`)
+3. Commit your changes (`git commit -m 'Add some feature'`)
+4. Push to the branch (`git push origin feature-branch`)
+5. Create a pull request
+
+## License
+
+This project is licensed under the Sinhgad License.
+
+
